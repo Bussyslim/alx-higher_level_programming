@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-def print_sorted_dictionary(a_dictionary):
-    if(a_dictionary):
-        for a, val in sorted(a_dictionary.items()):
-            print(f"{a}: {val}")
+def number_keys(a_dictionary):
+    return(len(a_dictionary.keys()))
