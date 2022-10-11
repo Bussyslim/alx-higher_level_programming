@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""Square Class
-This class don't do anything for the moment
+"""
+Class Square: Defines a square
 """
 
 
 class Square:
+    """ Makes an empty Square Class """
     pass
