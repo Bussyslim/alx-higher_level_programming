@@ -20,10 +20,3 @@ if __name__ == "__main__":
         for city in state.cities:
             print("{}: {} -> {}".format(city.id, city.name, state.name))
     session.close()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
